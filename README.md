@@ -50,16 +50,21 @@ Pada Case ke 2, memberikan pilihan untuk pengguna memasukkan data baru ke daftar
 
 Pada Case ke 3, pengguna dapat menambahkan daftar top up ke game yang baru saja ditambahkan atau game yang telah ada sebelumnya. Menu akan menampilkan daftar game dengan perulangan for. Agar tidak error, menggunakan topUp(pilihGame -1).add(topBaru) berfungsi untuk memngambil daftar top up sesuai index yang dipilih dan menambahkan daftar top up baru ke dalamnya, jadi saat menambahkan daftar baru, hanya index game yang dipilih yang bertambah.
 
-<img width="1066" height="362" alt="image" src="https://github.com/user-attachments/assets/0f1dd6df-fe5a-411f-9fe5-9e58e5e1379a" />
+<img width="1154" height="618" alt="image" src="https://github.com/user-attachments/assets/b8c364b7-6d00-41d5-93e3-4e2dfbab4a0b" />
+
+<img width="1401" height="470" alt="image" src="https://github.com/user-attachments/assets/92a0df80-0c51-4ce6-a228-c4ec0d9e9b2b" />
 
 Pada Case ke 4, pengguna memilih game yang ingin diubah. daftarGame.set() digunakan untuk mengganti data lama dengan data baru. Dan akan menampilkan data baru saat pengguna memilih tampilkan daftar game setelah melakukan perubahan.
 
-<img width="978" height="345" alt="image" src="https://github.com/user-attachments/assets/691be67d-28d3-41b5-ad0d-9bb2e6d0ac2c" />
+<img width="1208" height="570" alt="image" src="https://github.com/user-attachments/assets/22e05a29-164a-49b0-85ee-1945c2a132df" />
+
+<img width="1248" height="823" alt="image" src="https://github.com/user-attachments/assets/99bd6e9b-4fdd-4a26-b359-c03df4b53c23" />
 
 Case ke 5, menu untuk menghapus game menggunakan remove() untuk menghapusnya. Saat menghapus sebuah game, maka daftar top up juga ikut terhapus.
 
 <img width="999" height="312" alt="image" src="https://github.com/user-attachments/assets/685af85a-5ee4-4ad3-adec-21861ca306a1" />
 
+<img width="1247" height="411" alt="image" src="https://github.com/user-attachments/assets/96906e7a-a45d-4dbe-a494-974fcf28043c" />
 
 Pada case ke 6, saat pengguna ingin keluar dari program, maka program akan menampilkan pesan singkat, dan program akan berhenti berulang dan Scanner close yang tidak akan membaca input.
 
